@@ -1,0 +1,12 @@
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\obj\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\obj\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.dll.config
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\EntityFramework.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\EntityFramework.xml
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\obj\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\obj\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment 1\CPRG.COM214.AssignmentOne.RevisionB\CPRG.COM214.AssignmentOne.RevisionB.Data\obj\Debug\CPRG.COM214.AssignmentOne.RevisionB.Data.pdb

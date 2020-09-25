@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DocksList.ascx.cs" Inherits="CPRG.COM214.VersionB.App.Controls.DocksList" %>
+<asp:DropDownList ID="uxDockList" runat="server" OnSelectedIndexChanged="uxDockList_SelectedIndexChanged"></asp:DropDownList>
