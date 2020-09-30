@@ -1,11 +1,7 @@
 ﻿using CPRG.COM214.AssignmentOne.RevisionB.Data;
 using CPRG.COM214.VersionB.App.Controls;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+
 
 namespace CPRG.COM214.VersionB.App
 {
@@ -37,17 +33,13 @@ namespace CPRG.COM214.VersionB.App
             {
                 txtElectrical.Text = "Not Available";
             }
-            //var id = Convert.ToInt32(Session["StudentID"]);
-            //Label1.Text = id.ToString()
+        
             dropDownSlips.DataSource = MainManager.GetAllSlipsAvailable(id);
             dropDownSlips.DataTextField = "ID";
             dropDownSlips.DataValueField = "ID";
             dropDownSlips.DataBind();
             dropDownSlips.SelectedIndex = 0;
-          
-            // case sender to dockList
-            //var user = (DocksList)sender;
-            //Session["Dock"] = user.
+    
         }
 
         protected void dropDownSlips_SelectedIndexChanged(object sender, EventArgs e)
@@ -64,8 +56,6 @@ namespace CPRG.COM214.VersionB.App
 
         protected void btnLease_Click(object sender, EventArgs e)
         {
-            //var currentUser = Session["Customer"];
-            //txtFirstName.Text = currentUser.
             int customerID = Convert.ToInt32(Session["CustomerID"]);
             int slipID = Convert.ToInt32(dropDownSlips.SelectedValue);
 

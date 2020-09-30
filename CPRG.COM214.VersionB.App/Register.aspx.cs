@@ -1,11 +1,7 @@
 ﻿using CPRG.COM214.AssignmentOne.RevisionB.Data;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Security;
-using System.Web.UI;
-using System.Web.UI.WebControls;
+
 
 namespace CPRG.COM214.VersionB.App
 {
@@ -13,24 +9,6 @@ namespace CPRG.COM214.VersionB.App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //if (Session["StudentID"] != null)
-            //{
-            //    //need to convert the object in session to an int
-            //    var id = Convert.ToInt32(Session["StudentID"]);
-
-            //    //get the Authentication object from the manager
-            //    var auth = MainManager.FindCustomer(id);
-
-            //    //set the state of the form
-            //    if (auth != null)
-            //    {
-            //        txtFirstName.Text = auth.FirstName;
-            //        txtLastName.Text = auth.LastName;
-            //        txtCity.Text = auth.City;
-            //        txtPhone.Text = auth.Phone;
-                    
-            //    }
-            //}
         }
 
         protected void btnSubmit_Click(object sender, EventArgs e)

@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Security;
 using System.Web.UI;
-using System.Web.UI.WebControls;
+
 
 namespace CPRG.COM214.VersionB.App
 {
@@ -12,9 +9,7 @@ namespace CPRG.COM214.VersionB.App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Context is property of Page class, type HttpContext
-            // check if Context.User.Identity.IsAuthenticated 
-            // (set innerhtml of uxLogin and uxWelcome)
+          
             if (Context.User.Identity.IsAuthenticated)
             {
                 uxWelcome.InnerText = $"Welcome {Context.User.Identity.Name}";
@@ -27,7 +22,7 @@ namespace CPRG.COM214.VersionB.App
             }
         }
 
-        // just type this method - wired to uxLogin in Site.Master
+ 
         protected void HandleLoginClick(object sender, EventArgs e)
         {
             //check if Context.User.Identity.IsAuthenticated (signout auth ticket, clear session, redirect)
@@ -41,7 +36,7 @@ namespace CPRG.COM214.VersionB.App
             {
                 Response.Redirect("~/Login");
             }
-            //Response.Write("<script>alert('Login Clicked');</script>");
+        
         }
     }
 }

@@ -6,6 +6,16 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+//<!-- Author: Larisa Steigenberger
+//    Project: Marina Inland database
+//    Details: Unregister user is able to see what is available for rent ( page: Available lease)
+//   through user control (DockList) but unable to register unless he signed in
+//  Registration page: All four fields are required to be entered and upon succesfull registration, user
+//  will be redirected to the log in page to re-enter his credentials.
+//   After Login page: user is able to see LEASE page to and lease the sites available. 
+//   After clicking LEase button, all information related to this user will be presented to hi 
+//   in the table below. -->
+
 
 namespace CPRG.COM214.VersionB.App
 {
